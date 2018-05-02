@@ -44,6 +44,7 @@ len(list) | returns the length of the list.
 list.append(val) | adds *val* to the end of *list*.
 list.insert(i, val) | adds *val* to index value *i* of *list* pushes everything at an index value >= i one to the right.
 list\[i] = val | *replaces* the item at index value *i* with *val*.
+
 There are many more functions related to lists, but these are the basics.
 
 #### Tuples:
@@ -54,7 +55,8 @@ Function | Description
 ---------|------------
 tuple\[i] | returns the value of tuple at i.
 len(list) | returns the length of the tuple.
-As you can see, much more limited than lists. However, there are situations where you don't *want* a set of data to be changable.
+
+As you can see, much more limited than lists. However, there are situations where you don't *want* a set of data to be changable, in which case you'd want to use a tuple instead of a list
 
 #### Dictionaries:
 lorem ipsum dolor sit amet.
