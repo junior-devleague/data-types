@@ -38,7 +38,7 @@ myList[2] = "string"
 
 ##### Related Functions:
 Function | Description
-----------------------
+---------|------------
 list\[i] | returns the value of list at i.
 len(list) | returns the length of the list.
 list.append(val) | adds *val* to the end of *list*.
@@ -51,7 +51,7 @@ A tuple is almost exactly the same as a dictionary -- it is also stores multiple
 
 ##### Related Functions:
 Function | Description
-----------------------
+---------|------------
 tuple\[i] | returns the value of tuple at i.
 len(list) | returns the length of the tuple.
 As you can see, much more limited than lists. However, there are situations where you don't *want* a set of data to be changable.
