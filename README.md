@@ -70,8 +70,11 @@ myDict[16.5] = 'Stephen'
 
 ##### Related Functions:
 Function | Description
+---------|------------
 dict\[key] | returns the related value of key.
 len(dict) | returns the length of the dict.
 dict\[key] = val | Sets the value associated with key equal to val. If the pair already exists, the old value is replaced. If it doesn't exist, it's created with a value of val
 dict.keys() | gets a list of all the keys from the key/value pairs in the dict. However, you need to surround it with list() to be able to save it as a list.
 dict.values() | gets a list of all the values from the key/value pairs in the dict. However, you need to surround it with list() to be able to save it as a list.
+
+As you can see, the majority of the related functions are very different, and even the similar ones are not quite the same.
