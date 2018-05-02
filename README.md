@@ -78,3 +78,15 @@ dict.keys() | gets a list of all the keys from the key/value pairs in the dict. 
 dict.values() | gets a list of all the values from the key/value pairs in the dict. However, you need to surround it with list() to be able to save it as a list.
 
 As you can see, the majority of the related functions are very different, and even the similar ones are not quite the same.
+
+Challenge
+=========
+Now that we've learned about lists, tuples and dictionaries, how can we use them?
+Let's try creating some of our own!
+1. Create a list with 2 items in it.
+2. Use print statements to print out each of the 2 items from your list
+3. Append a third item to your list, and then print that
+4. Replace the second item in your list, and then print that
+5. Create a dictionary with 3 key/value pairs.
+6. Print each of the 3 values using the associated key.
+7. Finally, print the list of keys and the list of values from your dictionary
